@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "keys-to-object": "^0.2.0",
+    "keys-to-object": "https://github.com/StudentHubs/keys-to-object",
     "lodash.throttle": "^4.1.1"
   }
 }
